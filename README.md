@@ -1,2 +1,2 @@
 # First
-This is my first repository and i started my coding journet.
+This is my first repository and i started my coding journey.
